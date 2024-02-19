@@ -13,4 +13,4 @@ Cual virgen del San Cristóbal, Bogotá también está resguardada por una estat
 
 Bogotá no es Santiago pero bien podría rimar.
 
-![Vista de la virgen del cerro Guadalupe desde la plaza frente al mercado La Concordia](/assets/images/colombia1.jpeg "Virgen del cerro Guadalupe")
+![Vista de la virgen del cerro Guadalupe desde la plaza frente al mercado La Concordia]({{ site.baseurl }}/assets/images/colombia1.jpeg "Virgen del cerro Guadalupe")
