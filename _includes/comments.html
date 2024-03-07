@@ -1,3 +1,18 @@
+{% if page.accept-comments %}
+<div class="comments">
+{% assign comentarios = site.data.comments[page.slug] %}
+{% if comentarios.size > 0 %}
+<div class="comentario-list">
+  {% for comentario in comentarios %}
+  <div class="box my-5 comentario" id="{{ comentario[1]._id }}">
+	  <p><q>&ldquo;{{ comentario[1].message }}&rdquo;</q></p>
+	  <p><small>Escrito por {{ comentario[1].name }} el <i>{{ comentario[1].date | date: '%d/%m/%Y' }}</i></small></p>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+</div>
+
 <div class="box">
 <form method="POST" class="comment-form" action="https://staticman-periplo.onrender.com/v3/entry/github/corvalanlara/periplo/main/comments">
   <input name="options[redirect]" type="hidden" value="https://corvalan.dev/periplo{{ page.url }}">
@@ -26,12 +41,13 @@
   </div>
 </div>
 
-<div class="field is-grouped">
-  <div class="control">
+<div class="field">
+  <div class="control has-text-centered">
     <button class="button is-black">Publicar</button>
-    <p>Tu comentario aparecerá una vez sea aprobado</p>
+    <p class="has-text-centered">Tu comentario aparecerá una vez sea aprobado</p>
   </div>
 </div>
 </form>
 </div
 </div>
+{% endif %}
