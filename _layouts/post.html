@@ -27,8 +27,8 @@ layout: default
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d/%m/%Y" }}</time>
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus-comments.html %}
+  {% if site.staticman %}
+    {% include comments.html %}
   {% endif %}
 
 </article>

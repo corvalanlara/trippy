@@ -1,0 +1,33 @@
+<form method="POST" class="comment-form" action="https://staticman-periplo.onrender.com/v3/entry/github/corvalanlara/periplo/main/comments">
+  <input name="options[redirect]" type="hidden" value="https://corvalan.dev/periplo/{{ page.slug }}">
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+<div class="field">
+  <label class="label">Nombre</label>
+  <div class="control">
+    <input name="fields[name]" class="input" type="text" placeholder="Alex">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Correo</label>
+  <div class="control has-icons-left has-icons-right">
+    <input name="fields[email]" class="input" type="email" placeholder="tu@correo.com">
+    <span class="icon is-small is-left">
+      <i class="fas fa-envelope"></i>
+    </span>
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Comentario</label>
+  <div class="control">
+    <textarea name="fields[message]" class="textarea" placeholder="Escribe tu comentario aquí"></textarea>
+  </div>
+</div>
+
+<div class="field is-grouped">
+  <div class="control">
+    <button class="button is-black">Submit</button>
+  </div>
+</div>
+</form>

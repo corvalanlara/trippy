@@ -36,6 +36,7 @@ timezone: America/Santiago
 hide_search: true
 hide_credits: true
 google_analytics: true
+staticman: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
