@@ -8,7 +8,7 @@ Utilizar números negativos para hablar del tiempo responde meramente a la expec
 
 El problema del tiempo negativo es que te impide vivir los días por sí mismos. Los días están subyugados al y eclipsados por el acontecimiento futuro.
 
-He vivido en tiempo negativo durante una semana. El vuelo que me llevará a mi próximo destino ha dictado mi diario vivir en esta ciudad. En parte son los preparativos pero también es la ansiedad de todo lo que podría ocurrir mal. Y siento que no puedo disfrutar de esta ciudad con el peso del futuro sobre mí.
+He vivido en tiempo negativo durante una semana. El vuelo que me llevará a mi próximo destino ha dictado mi diario vivir en esta ciudad. En parte son los preparativos pero también es la ansiedad de todo lo que podría ocurrir mal. Y siento que no puedo disfrutar de este lugar con el peso del futuro sobre mí.
 
 <figure>
 <img src="{{ site.baseurl }}/assets/images/colombia3.jpg" alt="El viaje, obra de Bernardo Salcedo de 1975"/>
