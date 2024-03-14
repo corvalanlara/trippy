@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "7. Dédalo"
+date:   2024-03-14 13:09:00 -0000
+accept-comments: true
+---
+La medina de la ciudad de Tetuán es un laberinto del cual aún no logro salir. Tiene siete puertas que lo conectan con el resto de la ciudad y creo que solo conocí una, aquella por la que entré. Y apenas crucé aquella puerta, me perdí.
+
+Son tanto sus calles estrechas y similares entre sí, los callejones sin salida, y las inevitables vueltas en círculo los que han hecho imposible entender mi posición en la medina. Ni siquiera puedo confiar en *Google Maps* porque no me entrega ni la posición ni la dirección correcta.
+
+Ayer, por la primera vez pensé haber salido de la medina tras llegar a una plaza que fue recientemente construida. Ubicada más allá del Palacio del Rey, la plaza estaba rodeada por una sector residencial al cual pasé a tomar fotos. 
+
+Me resultó particularmente confuso el encontrarme allí con otros huéspedes pero simplemente se habían perdido intentando volver al hostal.
+
+Grande fue mi sorpresa cuando descubrí que ese sector residencial era parte de la medina, que incluso el Palacio del Rey forma parte de ella y que yo seguía sin salir de ella.
+
+<figure>
+<img src="{{ site.baseurl }}/assets/images/marruecos1.jpg" alt="Fotografía de un callejón de la medina de Tetuán"/>
+<figcaption>Callejón de la medina de Tetuán</figcaption>
+</figure>
