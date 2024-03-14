@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7. Dédalo"
-date:   2024-03-14 13:09:00 -0000
+date:   2024-03-14 32:00:00 -0000
 accept-comments: true
 ---
 La medina de la ciudad de Tetuán es un laberinto del cual aún no logro salir. Tiene siete puertas que lo conectan con el resto de la ciudad y creo que solo conocí una, aquella por la que entré. Y apenas crucé aquella puerta, me perdí.
