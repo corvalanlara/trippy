@@ -37,6 +37,10 @@ hide_search: true
 hide_credits: true
 google_analytics: true
 staticman: true
+reCaptcha:
+  enabled: true
+  siteKey: 6Lf_oZspAAAAAGng_RerURa_dReG_GsA3Cxlloe6
+  secret: OEWwjnnpwl9o1eibkNDoeBrEla/WINaqtA+lwisYpmDBv5x95eyoaKYB5vJqBaYaZxs9OPL/gduGtMvKED7T2H+xRW6cF9zQ8as4h/OTyKH4JkE7E+3rrj94lwWO+CPX0+EepHQv/owinl6sDuizHNyP/qbZJYgwvwFKxAFPQ8Th1S4CiUPwSRD3K/LMST32dWqq6+MA6H6rx+84EwaHzhZeM5hw8ykUq5uoUoihj5CO7pZGmKzjUMMkJ441+W0B/YIHnCLonBwnmfXDdvoXbOzxOr3rCSeKTRoKkEA/h+kR38HnCEyJH7N97BEJzh3S1GqCi6tvhVydyU6wscm1QA==
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -57,6 +57,8 @@
         </p>
       </aside>
     {% endunless %}
-
+    {% if site.reCaptcha.enabled %}
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+    {% endif %}
   </body>
 </html>
