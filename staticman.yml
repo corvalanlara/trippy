@@ -82,3 +82,8 @@ comments:
     authorEmail: email
     content: message
     type: comment
+
+  reCaptcha:
+    enabled: true
+    siteKey: 6Lf_oZspAAAAAGng_RerURa_dReG_GsA3Cxlloe6
+    secret: gkwoIQpzxGVneeWwveNLaHIA6AL2q42vT9l36iJimARHstwji/TyUJuhiIHCQFWXDKZ5Qq7tIKBidXia+PcENw1JNkvTpqG0JwW3pXaU+GYZ84oGhaAL+nXk/M0SzxBL8lTIRBl9P+aTTxGYRouW7kNp/Bv5UEuu4y0xvWj+k/VzEx2zuyAWupqc5d7Cfb3shiuh7nQuSaLU7nfbxkAwUxOoIldJX5CEL0g9/nqWsDppS6MIXAEFTkGcVs0iZvSeU7HXtLqlYXeOpt+UF1oy47Wj8JPVNmFgwPXS6cMC2l/opzn1FDiOq9gO3taP/NZPMtWlXV0VeEvMByIRrDVIaA==
