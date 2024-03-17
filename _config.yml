@@ -39,8 +39,8 @@ google_analytics: true
 staticman: true
 reCaptcha:
   enabled: true
-  siteKey: 6Lf_oZspAAAAAGng_RerURa_dReG_GsA3Cxlloe6
-  secret: OEWwjnnpwl9o1eibkNDoeBrEla/WINaqtA+lwisYpmDBv5x95eyoaKYB5vJqBaYaZxs9OPL/gduGtMvKED7T2H+xRW6cF9zQ8as4h/OTyKH4JkE7E+3rrj94lwWO+CPX0+EepHQv/owinl6sDuizHNyP/qbZJYgwvwFKxAFPQ8Th1S4CiUPwSRD3K/LMST32dWqq6+MA6H6rx+84EwaHzhZeM5hw8ykUq5uoUoihj5CO7pZGmKzjUMMkJ441+W0B/YIHnCLonBwnmfXDdvoXbOzxOr3rCSeKTRoKkEA/h+kR38HnCEyJH7N97BEJzh3S1GqCi6tvhVydyU6wscm1QA==
+  siteKey: 6Ld3qpspAAAAAOTg_CWeSiRByMRrK8p7sZBm6vkt
+  secret: kNcYfWy3UKN0dGu3p3B4kiEo8EArnZpaDWMOsAWAwZpQ5TNdZSkrfn6NGOUYKg6wDZistHgWPqk7+HJcnbSqzjRqgetqIqyXUAr/scP/EduH5cFRswNs77+AyVhb/X8JGwMpaozC3lxm0a2yOyZsnlzEf+0g0DrfIEao+ktMlVUnqIzAmLtZbPiplvpAuiKhD01E3gB/ycIebltLehhh0NBZCNxO2F3nKzBdCFssTOydMZ4felrpGFj10kOQEQNujS83iwQux9wdaFVIz6FfbKx8a6vi087rBmQEc7bFoUiikhdHok7OZVYQ4WYRskVFm5mHThgKt9drkaBoWYCleg==
 
 # Exclude from processing.
 # The following items will not be processed, by default.
