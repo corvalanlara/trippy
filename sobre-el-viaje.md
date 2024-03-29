@@ -10,7 +10,7 @@ title: Sobre el viaje
 El viaje comienza y termina en Chile.
 </li>
 <li>
-El viaje se realizará en dirección oeste.
+El viaje se realizará en dirección este.
 </li>
 <li>
 El viaje debe incluir los siguientes países:
