@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "10. Ruina"
+date:   2024-03-29 19:46:21 -0000
+accept-comments: true
+---
+El terremoto de Algarrobo de 1985 afectó fuertemente a mi ciudad natal, Melipilla, al punto que Mario Kreutzberger organizó la campaña Chile Ayuda a Chile para levantar la ciudad nuevamente.
+
+Viví rodeado por las ruinas de los espacios que alguna vez conformaron la ciudad, desde el mercado de animales y la copa de agua hasta la [estación de trenes](https://prezi.com/swmjtslb_djj/ruinas/). Las columnas y muros que se mantuvieron en pie fueron eventualmente demolidos a medida que la demanda por espacio crecía en la avenida Vicuña Mackena.
+
+Nunca se pensó en su restauración, menos aún en su conservación. Eran ruinas de un pasado tan cercano que lo único que lograban reflejar era la ineptitud de quienes levantaron sus estructuras.
+
+---
+
+Veinticuatro siglos nos separan de la fundación de Volubilis (ولياي pa' los amigos) cuyas ruinas se ubican cerca del pueblo de Moulay Idriss, al norte de Meknès. Veinticuatro siglos que les otorgan misterio y provocan fascinación por una cultura que consideramos (o mejor, nos inculcan a llamar) madre de la "civilización occidental".
+
+La [obsesión fascista con el mundo grecolatino](https://www.instagram.com/stories/highlights/17879932700575134/) nos mantiene creyendo que los límites actuales de lo que consideramos como "civilizado" se mantenían en el pasado. Pero las ruinas (esas que sí son dignas de preservar) nos recuerdan que el pasado mismo es más complejo que lo que las simplificaciones pedagógicas y la propaganda política pueden llegar a hacernos creer.
+
+Y es que en la cartografía de los discursos, el peso del pasado otorga fuerza y sustenta las ideas que se pretenden promover. Si existen ruinas dignas de preservación es porque se puede obtener provecho de ellas, ya sea económico (tuve que pagar 70 dirhams) o discursivo.
+
+<figure>
+<img src="{{ site.baseurl }}/assets/images/marruecos3.jpg" alt="Ruinas de Volubilis"/>
+<figcaption>Vista de Moulay Idriss desde Volubilis</figcaption>
+</figure>
