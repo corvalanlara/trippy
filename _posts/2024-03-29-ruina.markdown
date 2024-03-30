@@ -14,7 +14,7 @@ Veinticuatro siglos nos separan de la fundación de Volubilis (ولياي pa' lo
 
 El fascismo y su [obsesión con el mundo grecolatino](https://www.instagram.com/stories/highlights/17879932700575134/) nos quiere hacer creer que los límites actuales de lo que consideramos como "civilizado" se mantenían en el pasado. Sin embargo, las ruinas (esas que sí son dignas de preservar) nos recuerdan que el pasado mismo es más complejo que lo que la propaganda política pretende.
 
-Y es que en la cartografía de los discursos, el peso del pasado otorga fuerza y sustenta las ideas que se quieren promover. Si existen ruinas dignas de conservación es porque se puede obtener provecho de ellas, ya sea económico (tuve que pagar 70 dirhams) o discursivo.
+Y es que en la cartografía de los discursos, el peso del tiempo otorga fuerza y sustenta las ideas que se quieren promover. Si existen ruinas dignas de conservación es porque se puede obtener provecho de ellas, ya sea económico (tuve que pagar 70 dirhams) o discursivo.
 
 <figure>
 <img src="{{ site.baseurl }}/assets/images/marruecos3.jpg" alt="Ruinas de Volubilis"/>
