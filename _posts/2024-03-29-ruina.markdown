@@ -10,13 +10,11 @@ Viví rodeado por las ruinas de los espacios que alguna vez conformaron la ciuda
 
 Nunca se pensó en su restauración, menos aún en su conservación. Eran ruinas de un pasado tan cercano que lo único que lograban reflejar era la ineptitud de quienes levantaron sus estructuras.
 
----
-
 Veinticuatro siglos nos separan de la fundación de Volubilis (ولياي pa' los amigos) cuyas ruinas se ubican cerca del pueblo de Moulay Idriss, al norte de Meknès. Veinticuatro siglos que les otorgan misterio y provocan fascinación por una cultura que consideramos (o mejor, nos inculcan a llamar) madre de la "civilización occidental".
 
-La [obsesión fascista con el mundo grecolatino](https://www.instagram.com/stories/highlights/17879932700575134/) nos mantiene creyendo que los límites actuales de lo que consideramos como "civilizado" se mantenían en el pasado. Pero las ruinas (esas que sí son dignas de preservar) nos recuerdan que el pasado mismo es más complejo que lo que las simplificaciones pedagógicas y la propaganda política pueden llegar a hacernos creer.
+El fascismo y su [obsesión con el mundo grecolatino](https://www.instagram.com/stories/highlights/17879932700575134/) nos quiere hacer creer que los límites actuales de lo que consideramos como "civilizado" se mantenían en el pasado. Sin embargo, las ruinas (esas que sí son dignas de preservar) nos recuerdan que el pasado mismo es más complejo que lo que la propaganda política pretende.
 
-Y es que en la cartografía de los discursos, el peso del pasado otorga fuerza y sustenta las ideas que se pretenden promover. Si existen ruinas dignas de preservación es porque se puede obtener provecho de ellas, ya sea económico (tuve que pagar 70 dirhams) o discursivo.
+Y es que en la cartografía de los discursos, el peso del pasado otorga fuerza y sustenta las ideas que se quieren promover. Si existen ruinas dignas de conservación es porque se puede obtener provecho de ellas, ya sea económico (tuve que pagar 70 dirhams) o discursivo.
 
 <figure>
 <img src="{{ site.baseurl }}/assets/images/marruecos3.jpg" alt="Ruinas de Volubilis"/>
