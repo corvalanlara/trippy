@@ -18,7 +18,8 @@ En cualquier momento este blog pasará a llamarse Confesiones.
 
 <figure>
 <video controls autoplay loop muted>
-	<source type="video/mp4" src="https://github.com/corvalanlara/periplo/raw/main/assets/images/marruecos6.mp4">
+	<source type="video/webm" src="{{ site.baseurl }}/assets/images/marruecos6.webm"/>
+	<source type="video/mp4" src="{{ site.baseurl }}/assets/images/marruecos6.mp4"/>
 	Tu navegador no soporta
 </video>
 <figcaption>
