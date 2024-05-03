@@ -19,7 +19,7 @@ En cualquier momento este blog pasará a llamarse Confesiones.
 UPDATE: Acabo de ver una *story* de un doctorando brasilero que conocí en Río y es un libro llamado "O show do eu. A intimidade como espetáculo". Soy.
 
 <figure>
-<video controls autoplay loop muted>
+<video controls playsinline autoplay loop muted>
 	<source type="video/mov" src="{{ site.baseurl }}/assets/images/marruecos6.mov"/>
 	<source type="video/webm" src="{{ site.baseurl }}/assets/images/marruecos6.webm"/>
 	<source type="video/mp4" src="{{ site.baseurl }}/assets/images/marruecos6.mp4"/>
