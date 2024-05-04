@@ -19,12 +19,7 @@ En cualquier momento este blog pasará a llamarse Confesiones.
 UPDATE: Acabo de ver una *story* de un doctorando brasilero que conocí en Río y es un libro llamado "O show do eu. A intimidade como espetáculo". Soy.
 
 <figure>
-<video controls loop muted>
-	<source type="video/mov" src="{{ site.baseurl }}/assets/images/marruecos6.mov"/>
-	<source type="video/webm" src="{{ site.baseurl }}/assets/images/marruecos6.webm"/>
-	<source type="video/mp4" src="{{ site.baseurl }}/assets/images/marruecos6.mp4"/>
-	Tu navegador no soporta
-</video>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aej_A7saYQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>
 Me quedé dormido en la clase de yoga de hoy.
 </figcaption>
