@@ -14,7 +14,7 @@ Las aguas del Atlántico han cambiado mi percepción sobre la mar. Descubrí que
 
 Son experiencias puntuales las que han generado ese movimiento intestino, como refrescarse en las aguas de Copacabana durante una ola de calor o remar al punto en que las olas nacen sobre una tabla de surf en las playas de Taghazout.
 
-Y son experiencias teñidas por un fuerte factor emocional. **Son las personas con la que compartí ese instante en el tiempo las que transfiguran los recuerdos que tengo del espacio**.
+Y son experiencias teñidas por un fuerte factor emocional. **Son las personas con las que compartí ese instante en el tiempo las que transfiguran los recuerdos que tengo del espacio**.
 
 <figure class="vid">
 <video controls disablepictureinpicture loop>
