@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "15. Atlántico"
-date:   2024-06-16 11:36:00 +1000
+date:   2024-05-29 11:36:00 +1000
 accept-comments: true
 ---
 Hay miedos que se heredan. Como el miedo a los temblores. Mi hermana adquirió esa fobia cuando sintió la reacción de mi abuela frente a uno. [El terror se propaga por el aire](https://www.discovermagazine.com/mind/75-yes-you-really-can-smell-fear) y puede ser tan potente como para generar la misma respuesta emocional frente a su catalizador.
@@ -16,7 +16,7 @@ Son experiencias puntuales las que han generado ese movimiento intestino, como r
 
 Y son experiencias teñidas por un fuerte factor emocional. **Son las personas con la que compartí ese instante en el tiempo las que transfiguran los recuerdos que tengo del espacio**.
 
-<figure>
+<figure class="vid">
 <video controls disablepictureinpicture loop>
 	<source src="{{ site.baseurl }}/assets/images/marruecos1.mp4" type="video/mp4"/>
 	Tu navegador no soporta
