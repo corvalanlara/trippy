@@ -30,6 +30,9 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
 
+    {% if page.layout == '360photo' or page.layout == '360video' %}
+    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    {% endif %}
   </head>
   <body>
 
