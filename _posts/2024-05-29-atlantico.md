@@ -18,7 +18,7 @@ Y son experiencias teñidas por un fuerte factor emocional. **Son las personas c
 
 <figure class="vid">
 <video controls disablepictureinpicture loop>
-	<source src="{{ site.baseurl }}/assets/images/marruecos1.mp4" type="video/mp4"/>
+	<source src="{{ site.baseurl }}/assets/videos/marruecos1.mp4" type="video/mp4"/>
 	Tu navegador no soporta
 </video>
 <figcaption>
