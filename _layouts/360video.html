@@ -9,7 +9,7 @@ layout: default
   <a-videosphere src="#video360" visible="false" play-on-click></a-videosphere>
   <a-camera>
 	  <a-entity position="0 0 -1.5"
-		    text="align: center; width: 6; wrapCount: 100; color: black; value: Presiona aquí" hide-on-play:"#video360">
+		    text="align: center; font: {{ 'assets/fonts/garamond-msdf.json' | absolute_url }}; negate: false; fontImage: {{ 'assets/fonts/garamond.png' | absolute_url }}; width: 6; wrapCount: 100; color: black; value: Presiona aqui para iniciar el video" hide-on-play="#video360">
 	  </a-entity>
   </a-camera>
 
