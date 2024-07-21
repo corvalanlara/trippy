@@ -3,9 +3,14 @@ layout: default
 ---
 <a-scene>
   <a-assets>
-	  <video id="video360" autoplay muted loop="true" src="{{ site.baseurl }}/assets/videos/{{ page.video }}"> </video>
+	  <video id="video360" preload="auto" autoplay loop="true" src="{{ site.baseurl }}/assets/videos/{{ page.video }}"> </video>
   </a-assets>
 
-  <a-videosphere src="#video360"></a-videosphere>
+  <a-videosphere src="#video360" visible="false" play-on-click></a-videosphere>
+  <a-camera>
+	  <a-entity position="0 0 -1.5"
+		    text="align: center; width: 6; wrapCount: 100; color: black; value: Presiona aquí" hide-on-play:"#video360">
+	  </a-entity>
+  </a-camera>
 
 </a-scene>

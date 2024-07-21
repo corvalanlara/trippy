@@ -33,6 +33,11 @@
     {% if page.layout == '360photo' or page.layout == '360video' %}
     <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
     {% endif %}
+    {% if page.layout == '360video' %}
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <script src="{{ 'assets/js/play-on-click.js' | absolute_url }}"></script>
+    <script src="{{ 'assets/js/hide-on-play.js' | absolute_url }}"></script>
+    {% endif %}
   </head>
   <body>
 
