@@ -62,7 +62,9 @@ layout: default
 
     <ul class="post-list">
       {% for post in site.posts %}
-        {% include post-list-item.html %}
+      	{% if post.hidden != true %}
+          {% include post-list-item.html %}
+	{% endif %}
       {% endfor %}
     </ul>
   

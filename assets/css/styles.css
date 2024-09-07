@@ -1,3 +1,11 @@
 .vid {
 	padding-top: 1.5em;
 }
+
+.post p {
+	margin-bottom: 1em;
+}
+
+.post p:first-of-type {
+	text-indent: 1.5em !important;
+}
